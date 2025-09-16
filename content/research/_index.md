@@ -6,7 +6,10 @@ sections:
     content:
       title: "研究简介"
       subtitle: ""
-      page_type: publication
+      filters:
+        folders:
+          - research_direction
+          # - publication
       show_more_link: false
     design:
       view: masonry
