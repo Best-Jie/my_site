@@ -16,11 +16,11 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: 2020-01-01
+date: 2021-01-01
 doi: "10.1109/CVPR.2019.00142"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-01-01T00:00:00Z'
+publishDate: '2021-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,15 +28,15 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '**IEEE/CVPR 2020**'
-publication_short: '**IEEE/CVPR 2020**'
+publication: '**IEEE/CVPR 2021**'
+publication_short: '**IEEE/CVPR 2021**'
 
 abstract: >
   本文提出了一种增量旋转平均的新方法，能够在三维重建中更高效地计算全局旋转。
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-summary: IEEE/CVPR 2020
+summary: IEEE/CVPR 2021
 
 tags: []
 

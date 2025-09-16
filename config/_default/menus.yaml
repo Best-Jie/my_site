@@ -19,9 +19,15 @@ main:
   - name: 学术论文
     url: publication
     weight: 30
-  - name: Events
-    url: event
+  # - name: Events
+  #   url: event
+  #   weight: 40
+  - name: 研究简介
+    url: research
     weight: 40
-  - name: Contact
-    url: contact
+  - name: 科研项目
+    url: funding
+    weight: 50
+  - name: 招生指南
+    url: recruit
     weight: 60

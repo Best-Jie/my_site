@@ -35,7 +35,8 @@ abstract: >
   本文提出了一种增量旋转平均的新方法，能够在三维重建中更高效地计算全局旋转。
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: IEEE/CVPR 2019
 
 tags: []
 
