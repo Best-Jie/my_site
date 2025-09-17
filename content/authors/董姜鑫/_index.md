@@ -6,7 +6,7 @@ title: 董姜鑫
 first_name: Jiangxin
 last_name: Dong
 
-index: 50
+index: 35
 
 # Username (this should match the folder name)
 authors:
@@ -20,7 +20,7 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: 南京理工大学
+  - name: 南京理工大学,1
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
