@@ -34,12 +34,12 @@ sections:
       show_role: true
       show_social: false
     
-  - block: markdown
-    content:
-      text: |
-        <div style="text-align:center; margin-top: 1rem;">
-          <a href="/people/" class="btn btn-primary">更多...</a>
-        </div>
+  # - block: markdown
+  #   content:
+  #     text: |
+  #       <div style="text-align:center; margin-top: 1rem;">
+  #         <a href="/people/" class="btn btn-primary">更多...</a>
+  #       </div>
 
   
 
