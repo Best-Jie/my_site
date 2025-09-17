@@ -12,6 +12,12 @@
   display: none;
 }
 
+/* 导航栏当前选中项高亮颜色 */
+.navbar .navbar-nav .nav-link.active {
+  font-weight: bold !important;
+  color: #880088 !important;
+}
+
 
 .table {
   border-collapse: collapse!important
