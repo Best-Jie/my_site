@@ -17,7 +17,7 @@ external_url: "https://bio.duxy.cc/"
 user_groups:
   - Ph.D(博士)
 
-_build:
+build:
   render: never   # 不生成 /people/博士一/ 页面
 ---
 
